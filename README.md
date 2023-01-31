@@ -1,4 +1,4 @@
-## FaceMaskDetection
+## Face Mask Detector
 
 A real-time Face Mask detector using Deep Learning Techniques.
 
